@@ -18,7 +18,7 @@ class _MyHomePageState extends State<MyHomePage> {
   void login(String email, pass) async {
     try {
       Response response = await post(
-        Uri.parse("https://reqres.in/api/register"),
+        Uri.parse("https://reqres.in/api/login"),
         body: {
           'email': email,
           'password': pass,
@@ -28,7 +28,7 @@ class _MyHomePageState extends State<MyHomePage> {
         //to print data using GET
         var data = jsonDecode(response.body.toString());
         print(data);
-        print("account created");
+        print("login successful");
       } else {
         print("please check password");
       }
@@ -81,7 +81,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   color: Colors.pink[100],
                 ),
                 child: const Center(
-                  child: Text("Sign Up"),
+                  child: Text("login"),
                 ),
               ),
             )
