@@ -1,13 +1,12 @@
 # ex1
 
 # Using https://reqres.in/ to test<br>outputs:
-
-            ![postman](https://github.com/suraj-khot-19/img/blob/main/post1.png)
-            ![postman](https://github.com/suraj-khot-19/img/blob/main/post1_1.png) 
-            ![postman](https://github.com/suraj-khot-19/img/blob/main/post1_2.png) 
-            ![postman](https://github.com/suraj-khot-19/img/blob/main/post2.png) 
-            ![postman](https://github.com/suraj-khot-19/img/blob/main/post2_1.png)
-            ![postman](https://github.com/suraj-khot-19/img/blob/main/post2_2.png)
+![postman](https://github.com/suraj-khot-19/img/blob/main/post1.png)
+![postman](https://github.com/suraj-khot-19/img/blob/main/post1_1.png) 
+![postman](https://github.com/suraj-khot-19/img/blob/main/post1_2.png) 
+![postman](https://github.com/suraj-khot-19/img/blob/main/post2.png) 
+![postman](https://github.com/suraj-khot-19/img/blob/main/post2_1.png)
+![postman](https://github.com/suraj-khot-19/img/blob/main/post2_2.png)
 # <hr>
 
 <pre>
