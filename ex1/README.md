@@ -1,6 +1,6 @@
 # ex1
 
-<p>Using https://reqres.in/ to test</p>
+# Using https://reqres.in/ to test<br>outputs:
         ![postman](https://github.com/suraj-khot-19/img/blob/main/post1.png)
         ![postman](https://github.com/suraj-khot-19/img/blob/main/post1_1.png) 
         ![postman](https://github.com/suraj-khot-19/img/blob/main/post1_2.png) 
