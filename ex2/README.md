@@ -1,4 +1,7 @@
 https://github.com/suraj-khot-19/img/blob/main/ex2_4.mp4
+
+[![Video](https://github.com/suraj-khot-19/img/blob/main/ex2_4_thumbnail.jpg)](https://github.com/suraj-khot-19/img/blob/main/ex2_4.mp4)
+
 <p>using https://fakestoreapi.com/ for POST api</p> 
 <table>
  
