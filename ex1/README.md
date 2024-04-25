@@ -3,24 +3,28 @@
  
   <tr>
     <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post1.png" height="600"></td>
+      </tr>
+        <tr>
     <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post1_1.png"
      height="600">
     </td>   
   </tr>
- </table>
- <table>
+ 
  
   <tr>
     <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post1_2.png" height="600"></td>
+    </tr>
+        <tr>
     <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post2.png"
      height="600">
     </td>   
   </tr>
- </table>
- <table>
+ 
  
   <tr>
     <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post2_1.png" height="600"></td>
+   </tr>
+        <tr>
     <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post2_2.png"
      height="600">
     </td>   
