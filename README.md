@@ -1,6 +1,4 @@
-
-![rest api logo](https://user-images.githubusercontent.com/47206155/156525375-e7bf5e18-1fba-49a1-86aa-bfa64f91d5e4.png)
-
+![vid](https://github.com/suraj-khot-19/img/blob/main/ezgif-4-455e959062.gif)
 <table>
  
   <tr>
@@ -11,7 +9,7 @@
     </td>   
   </tr>
   <tr>
-    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/ex2_4.mp4" alt="see video"></td>   
+    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/ezgif-4-455e959062.gif" alt="see video"></td>   
   </tr>
  </table>
 
