@@ -16,7 +16,7 @@
     <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/ex2_3.png" height="700"></td>
     </tr>
       <tr>
-    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/ex2_4.mp4"
+    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/ex2_4.mp4" alt="see video"
      height="700">
     </td>   
   </tr>
