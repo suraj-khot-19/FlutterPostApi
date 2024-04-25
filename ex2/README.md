@@ -1,5 +1,4 @@
-![vid](https://youtube.com/shorts/aKzU7g7CZLs?si=-419mh08uudlkw-f)
-[![Alt text for your video](https://github.com/suraj-khot-19/img/blob/main/ex2_1.png)](https://youtube.com/shorts/aKzU7g7CZLs?si=-419mh08uudlkw-f)
+
 <p>using https://fakestoreapi.com/ for POST api</p> 
 <table>
  
@@ -18,9 +17,7 @@
     <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/ex2_3.png" ></td>
     </tr>
       <tr>
-    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/ex2_4.mp4" alt="see video"
-     >
-    </td>   
+    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/ezgif-4-455e959062.gif" alt="see video"></td>   
   </tr>
   <tr>
  </table>
