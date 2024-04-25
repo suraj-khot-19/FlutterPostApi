@@ -4,18 +4,14 @@
 <table>
  
   <tr>
-    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post1_1.png" height="600"></td>
-    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post2_1.png"
-   >
+    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post1_1.png"></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post2_1.png">
     </td>   
   </tr>
- </table>
- 
- <table>
- 
   <tr>
-    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/ex2_4.mp4" alt="see video"
-   ></td>   
+    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/ex2_4.mp4" alt="see video"></td>   
   </tr>
  </table>
 
