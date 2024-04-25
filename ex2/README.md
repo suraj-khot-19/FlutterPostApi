@@ -1,0 +1,58 @@
+# ex2
+# <hr>
+# using https://fakestoreapi.com/ for POST api 
+<pre>
+                        <b>Packages</b>
+<ul>
+<li>
+    This will add a line like this to your package's pubspec.yaml (and run an implicit dart pub get):
+
+    dependencies:
+      http: ^1.2.1
+    Alternatively, your editor might support dart pub get or flutter pub get. Check the docs for your editor to learn more.
+
+    Import it
+    Now in your Dart code, you can use:
+
+    <b>import 'package:http/http.dart';</b>
+</li>
+
+<hr>
+
+<li>modal_progress_hud_nsn</li>
+
+    <p> puspec.yaml>>>>
+        dependencies:
+            modal_progress_hud_nsn: ^0.5.1
+    </p>
+
+    <p>Import it:
+        Now in your Dart code, you can use:
+    
+     import 'package:modal_progress_hud_nsn/modal_progress_hud_nsn.dart';
+
+    </p>
+
+<hr>
+
+<li>image_picker</li>
+    <p>
+        This will add a line like this to your package's pubspec.yaml (and run an implicit flutter pub get):
+
+    dependencies:
+      image_picker: ^1.1.0
+    Alternatively, your editor might support flutter pub get. Check the docs for your editor to learn more.
+
+    Import it
+    Now in your Dart code, you can use:
+
+    <b>import 'package:image_picker/image_picker.dart';</b>
+    </p>
+</ul>
+                        <h1>Andorid Perm</h1>
+    <p>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    </p>
+</pre>
