@@ -1,5 +1,6 @@
 # ex2
-# <hr>
+![]()
+![]()
 # using https://fakestoreapi.com/ for POST api 
 <pre>
                         <b>Packages</b>
@@ -49,10 +50,11 @@
     <b>import 'package:image_picker/image_picker.dart';</b>
     </p>
 </ul>
-                        <h1>Andorid Perm</h1>
-    <p>
+                        <h1>android permission</h1>
+                        path>>>ex2\android\app\src\main\AndroidManifest.xml
+    <pre>
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.CAMERA" />
-    </p>
+    </pre>
 </pre>
