@@ -2,31 +2,31 @@
 <table>
  
   <tr>
-    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post1.png" height="900"></td>
+    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post1.png" ></td>
       </tr>
         <tr>
     <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post1_1.png"
-     height="900">
+     >
     </td>   
   </tr>
  
  
   <tr>
-    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post1_2.png" height="900"></td>
+    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post1_2.png" ></td>
     </tr>
         <tr>
     <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post2.png"
-     height="900">
+     >
     </td>   
   </tr>
  
  
   <tr>
-    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post2_1.png" height="900"></td>
+    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post2_1.png" ></td>
    </tr>
         <tr>
     <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post2_2.png"
-     height="900">
+     >
     </td>   
   </tr>
  </table>

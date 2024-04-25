@@ -2,22 +2,22 @@
 <table>
  
   <tr>
-    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/ex2_1.png" height="700"></td> 
+    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/ex2_1.png" ></td> 
   </tr> 
      <tr>
     <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/ex2_2.png"
-     height="700">
+     >
     </td>   
   </tr>
  </table>
  <table>
  
   <tr>
-    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/ex2_3.png" height="700"></td>
+    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/ex2_3.png" ></td>
     </tr>
       <tr>
     <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/ex2_4.mp4" alt="see video"
-     height="700">
+     >
     </td>   
   </tr>
  </table>
