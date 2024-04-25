@@ -2,18 +2,22 @@
 <table>
  
   <tr>
-    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/ex2_1.png" height="600"></td>
+    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/ex2_1.png" height="700"></td> 
+  </tr> 
+     <tr>
     <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/ex2_2.png"
-     height="600">
+     height="700">
     </td>   
   </tr>
  </table>
  <table>
  
   <tr>
-    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/ex2_3.png" height="600"></td>
+    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/ex2_3.png" height="700"></td>
+    </tr>
+      <tr>
     <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/ex2_4.mp4"
-     height="600">
+     height="700">
     </td>   
   </tr>
  </table>
@@ -68,8 +72,8 @@
                         <h1>android permission</h1>
                         path>>>ex2\android\app\src\main\AndroidManifest.xml
     <pre>
-    permission are>
-    
+    permission are>>>>
+
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.CAMERA" />

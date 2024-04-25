@@ -1,13 +1,31 @@
-# ex1
-
-# Using https://reqres.in/ to test<br>outputs:
-![postman](https://github.com/suraj-khot-19/img/blob/main/post1.png)
-![postman](https://github.com/suraj-khot-19/img/blob/main/post1_1.png) 
-![postman](https://github.com/suraj-khot-19/img/blob/main/post1_2.png) 
-![postman](https://github.com/suraj-khot-19/img/blob/main/post2.png) 
-![postman](https://github.com/suraj-khot-19/img/blob/main/post2_1.png)
-![postman](https://github.com/suraj-khot-19/img/blob/main/post2_2.png)
-# <hr>
+<p>Using https://reqres.in/ to test<br>outputs:</p>
+<table>
+ 
+  <tr>
+    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post1.png" height="600"></td>
+    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post1_1.png"
+     height="600">
+    </td>   
+  </tr>
+ </table>
+ <table>
+ 
+  <tr>
+    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post1_2.png" height="600"></td>
+    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post2.png"
+     height="600">
+    </td>   
+  </tr>
+ </table>
+ <table>
+ 
+  <tr>
+    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post2_1.png" height="600"></td>
+    <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post2_2.png"
+     height="600">
+    </td>   
+  </tr>
+ </table>
 
 <pre>
                         <b>Packages</b>
