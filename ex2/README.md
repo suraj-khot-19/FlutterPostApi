@@ -1,4 +1,5 @@
 ![vid](https://youtube.com/shorts/aKzU7g7CZLs?si=-419mh08uudlkw-f)
+[![Alt text for your video](https://github.com/suraj-khot-19/img/blob/main/ex2_1.png)](https://youtube.com/shorts/aKzU7g7CZLs?si=-419mh08uudlkw-f)
 <p>using https://fakestoreapi.com/ for POST api</p> 
 <table>
  
