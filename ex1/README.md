@@ -14,12 +14,13 @@
   <tr>
     <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post1_2.png" ></td>
     </tr>
-        <tr>
+        /*
+   <tr>
     <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post2.png"
      >
     </td>   
   </tr>
- 
+ */
  
   <tr>
     <td valign="top"><img src="https://github.com/suraj-khot-19/img/blob/main/post2_1.png" ></td>
